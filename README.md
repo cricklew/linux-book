@@ -1,4 +1,4 @@
 # linux-book
-about how to learning linux for freshman
+## #About how to learning linux for freshman
 
-## Constantlt updated
+## Constantly updating...
