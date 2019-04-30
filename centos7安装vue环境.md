@@ -15,10 +15,10 @@ Vue CLI 需要 [Node.js<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true
 可以使用下列任一命令安装这个新的包：
  
 
-  `<span class="token function">npm</span> <span class="token function">install</span> -g @vue/cli
-<span class="token comment"># OR</span>
+npm install -g @vue/cli
+# OR
 yarn global add @vue/cli
-`
+
 
     安装之后，你就可以在命令行中访问 `vue` 命令。你可以通过简单运行 `vue`，看看是否展示出了一份所有可用命令的帮助信息，来验证它是否安装成功。
 
